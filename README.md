@@ -20,6 +20,8 @@ npm start
 ### Server - Terminal B
 ```
 cd server
+import tutukani.sql into your MySql database server
+configer database in server/config/config.js
 npm install
 npm start
 ```
