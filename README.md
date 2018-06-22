@@ -21,7 +21,7 @@ npm start
 ```
 cd server
 import tutukani.sql into your MySql database server
-configer database in server/config/config.js
+configure database in server/config/config.js
 npm install
 npm start
 ```
